@@ -8,7 +8,7 @@
   "server": {
     "ip": "DreamCraftNewGen.aternos.me",
     "port":  57865,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
